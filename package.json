@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/frncsdrk/renaissance-test/issues"
   },
-  "homepage": "https://github.com/frncsdrk/renaissance-test#readme"
+  "homepage": "https://github.com/frncsdrk/renaissance-test#readme",
+  "dependencies": {
+    "renaissance": "^0.3.0"
+  }
 }
